@@ -1,16 +1,7 @@
-# todoey
+# TODOEY APP
+Todoey is a simple and intuitive to-do app that helps you organize, prioritize, and manage your tasks effortlessly, keeping you productive and on track.
 
-A simple todo app
+## About this app
+Todoey allows you to effortlessly add, mark, and delete tasks, making it easy to manage your to-do list and stay organized.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/user-attachments/assets/1bfbdd94-b3c0-4e28-9605-16109da17cf3)
